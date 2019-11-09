@@ -1,0 +1,23 @@
+{
+  "name": "ff14angler",
+  "version": "0.0.1",
+  "description": "A Node.js wrapper for the FF14Angler API.",
+  "main": "4angler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karashiiro/node-ff14angler.git"
+  },
+  "author": "karashiiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karashiiro/node-ff14angler/issues"
+  },
+  "homepage": "https://github.com/karashiiro/node-ff14angler#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
